@@ -5,5 +5,6 @@ public class stringmeth
         s1=s1.concat("def");
         s1=s1.toUpperCase();
         System.out.println(s1);
+        System.out.println(s1.length());
     }    
 }
